@@ -4,3 +4,5 @@
 *Csharp linguist-detectable=false
 *html linguist-detectable=false
 *php linguist-detectable=true
+*less linguist-detectable=false
+
